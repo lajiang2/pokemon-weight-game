@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pokemon-weight-game/static/css/main.e20996b3.chunk.css"
   },
   {
-    "revision": "48cae261e368b6ead66b0b7a681e3074",
+    "revision": "f0314ca130b3ba9bf97626bb9db7959d",
     "url": "/pokemon-weight-game/index.html"
   }
 ];

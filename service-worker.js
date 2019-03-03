@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pokemon-weight-game/precache-manifest.0798e9dc37993a79fa78234fe540b31c.js"
+  "/pokemon-weight-game/precache-manifest.d8ee52db8f6de2c4a1ac6a56f451f0c0.js"
 );
 
 workbox.clientsClaim();
