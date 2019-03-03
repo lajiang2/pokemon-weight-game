@@ -64,7 +64,10 @@ class App extends Component {
 
   async loadPokemon() {
     const p1_id = Math.floor(Math.random() * 387);
-    const p2_id = Math.floor(Math.random() * 387); 
+    let p2_id = Math.floor(Math.random() * 387);
+    while (p1_id == p2_id) {
+      p2_id = Math.floor(Math.random() * 387);
+    }
 
     const response1 = await fetch("https://pokeapi.co/api/v2/pokemon/" + p1_id + "/");
     const json1 = await response1.json();
