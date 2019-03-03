@@ -42,12 +42,12 @@ class App extends Component {
       this.setState({
         score: ((this.state.numCorrect + 1) * 100 / (this.state.numTries + 1)),
         numCorrect: this.state.numCorrect + 1,
-        message: "Correct!"
+        message: "correct!"
       })
     } else {
       this.setState({
         score: (this.state.numCorrect * 100 / (this.state.numTries + 1)),
-        message: "Incorrect!"
+        message: "cncorrect!"
       })
     }
    
