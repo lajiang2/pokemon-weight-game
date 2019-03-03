@@ -2,7 +2,7 @@
   "name": "api-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lajiang2.github.io/pokemon-weight-game/",
+  "homepage": "https://lajiang2.github.io/pokeweight/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
