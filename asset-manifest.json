@@ -1,13 +1,13 @@
 {
-  "main.css": "/pokemon-weight-game/static/css/main.e20996b3.chunk.css",
-  "main.js": "/pokemon-weight-game/static/js/main.3ebffd95.chunk.js",
-  "main.js.map": "/pokemon-weight-game/static/js/main.3ebffd95.chunk.js.map",
-  "runtime~main.js": "/pokemon-weight-game/static/js/runtime~main.68eb126d.js",
-  "runtime~main.js.map": "/pokemon-weight-game/static/js/runtime~main.68eb126d.js.map",
-  "static/js/2.9485d122.chunk.js": "/pokemon-weight-game/static/js/2.9485d122.chunk.js",
-  "static/js/2.9485d122.chunk.js.map": "/pokemon-weight-game/static/js/2.9485d122.chunk.js.map",
-  "index.html": "/pokemon-weight-game/index.html",
-  "precache-manifest.d8ee52db8f6de2c4a1ac6a56f451f0c0.js": "/pokemon-weight-game/precache-manifest.d8ee52db8f6de2c4a1ac6a56f451f0c0.js",
-  "service-worker.js": "/pokemon-weight-game/service-worker.js",
-  "static/css/main.e20996b3.chunk.css.map": "/pokemon-weight-game/static/css/main.e20996b3.chunk.css.map"
+  "main.css": "/pokeweight/static/css/main.e20996b3.chunk.css",
+  "main.js": "/pokeweight/static/js/main.0f3ed6b1.chunk.js",
+  "main.js.map": "/pokeweight/static/js/main.0f3ed6b1.chunk.js.map",
+  "runtime~main.js": "/pokeweight/static/js/runtime~main.e56d8d9f.js",
+  "runtime~main.js.map": "/pokeweight/static/js/runtime~main.e56d8d9f.js.map",
+  "static/js/2.9485d122.chunk.js": "/pokeweight/static/js/2.9485d122.chunk.js",
+  "static/js/2.9485d122.chunk.js.map": "/pokeweight/static/js/2.9485d122.chunk.js.map",
+  "index.html": "/pokeweight/index.html",
+  "precache-manifest.3972cfcb02ff761e5b2585b768f5eb59.js": "/pokeweight/precache-manifest.3972cfcb02ff761e5b2585b768f5eb59.js",
+  "service-worker.js": "/pokeweight/service-worker.js",
+  "static/css/main.e20996b3.chunk.css.map": "/pokeweight/static/css/main.e20996b3.chunk.css.map"
 }

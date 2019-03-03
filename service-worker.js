@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pokemon-weight-game/precache-manifest.d8ee52db8f6de2c4a1ac6a56f451f0c0.js"
+  "/pokeweight/precache-manifest.3972cfcb02ff761e5b2585b768f5eb59.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/pokemon-weight-game/index.html", {
+workbox.routing.registerNavigationRoute("/pokeweight/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
